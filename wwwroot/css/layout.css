@@ -1,0 +1,39 @@
+head img {
+    width: 100%;
+    height:auto;
+}
+
+.navbar-principal{
+    background-color: #061f3b;
+    display: flex;
+    justify-content:center;
+    padding:10px;
+}
+
+.btn-navbar{
+    padding: 28px;
+    border-radius: 23px;
+    font-size:26px;
+    width: 250px;
+    border: none;
+}
+
+.box-btn{
+    margin: 10px;
+}
+
+.btn-inicio{
+    background-color: #8B0000;
+}
+
+.btn-sobre{
+    background-color:#f1f91c ;
+}
+
+.btn-ep{
+    background-color:#08e829 ;
+}
+
+.btn-dev{
+    background-color:#1a2edc ;
+}
