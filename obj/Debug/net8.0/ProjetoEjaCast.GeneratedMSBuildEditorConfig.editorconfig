@@ -18,12 +18,24 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\14186316473\EJACAST\ProjetoEjaCast
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/14186316473/EJACAST/ProjetoEjaCast/Views/Home/Desenvolvedores.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEZXNlbnZvbHZlZG9yZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/14186316473/EJACAST/ProjetoEjaCast/Views/Home/Episodios.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFcGlzb2Rpb3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/14186316473/EJACAST/ProjetoEjaCast/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/14186316473/EJACAST/ProjetoEjaCast/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/14186316473/EJACAST/ProjetoEjaCast/Views/Home/SobreNos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTb2JyZU5vcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/14186316473/EJACAST/ProjetoEjaCast/Views/Shared/Error.cshtml]

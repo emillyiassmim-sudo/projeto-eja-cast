@@ -8,26 +8,39 @@
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/css/layout.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/ProjetoEjaCast.styles.css" asp-append-version="true" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css" integrity="sha512-2SwdPD6INVrV/lHTZbO2nodKhrnDdJK9/kg2XD1r9uGqPo1cUbujc+IYdlYdEErWNu69gVcYgdxlmVmzTWnetw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/js/all.min.js" integrity="sha512-6BTOlkauINO65nLhXhthZMtepgJSghyimIalb+crKRPhvhmsCdnIuGcVbR5/aQY2A+260iC1OPy1oCdB6pSSwQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 </head>
 <body>
     <header>
        <picture>
            <source media="(max-width: 768px)" srcset="/img/banner4.png">
            <source media="(max-width: 1200px)" srcset="/img/banner3.png">
-           <img src="/img/banner2.png" alt="Banner do site">
+           <img src="/img/image.png" alt="Banner do site">
        </picture>
        <nav class="navbar-principal">
            <div class= "box-btn">
-               <button class="btn-navbar btn-inicio">Início</button>
+               <button class="btn-navbar btn-inicio">
+                   <i class="fa-solid fa-house"></i>
+                   Início
+                </button>
            </div>
            <div class= "box-btn">
-               <button class="btn-navbar btn-sobre">Sobre nós</button>
+               <button class="btn-navbar btn-sobre">
+                   <i class="fa-solid fa-user"></i>
+                   Sobre nós
+                </button>
            </div>
            <div class= "box-btn">
-               <button class="btn-navbar btn-ep">Episódios</button>
+               <button class="btn-navbar btn-ep">
+                   <i class="fa-solid fa-play"></i>
+                   Episódios
+                </button>
            </div>
            <div class= "box-btn">
-               <button class="btn-navbar btn-dev">Desenvolvedores</button>
+               <button class="btn-navbar btn-dev"><i class="fa-solid fa-code"></i>
+                   Desenvolvedores
+                </button>
            </div>
        </nav>
     </header>

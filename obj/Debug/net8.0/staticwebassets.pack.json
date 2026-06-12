@@ -17,16 +17,8 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\14186316473\\EJACAST\\ProjetoEjaCast\\wwwroot\\img\\banner2.png",
-      "PackagePath": "staticwebassets\\img\\banner2.png"
-    },
-    {
-      "Id": "C:\\Users\\14186316473\\EJACAST\\ProjetoEjaCast\\wwwroot\\img\\banner3.png",
-      "PackagePath": "staticwebassets\\img\\banner3.png"
-    },
-    {
-      "Id": "C:\\Users\\14186316473\\EJACAST\\ProjetoEjaCast\\wwwroot\\img\\banner4.png",
-      "PackagePath": "staticwebassets\\img\\banner4.png"
+      "Id": "C:\\Users\\14186316473\\EJACAST\\ProjetoEjaCast\\wwwroot\\img\\image.png",
+      "PackagePath": "staticwebassets\\img\\image.png"
     },
     {
       "Id": "C:\\Users\\14186316473\\EJACAST\\ProjetoEjaCast\\wwwroot\\js\\site.js",
